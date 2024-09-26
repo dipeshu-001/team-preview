@@ -5,7 +5,7 @@ Pokémon team preview image generator
 
 Install team-preview:
 ```
-npm i team-preview
+npm i @dipeshu-001/team-preview
 ```
 
 
